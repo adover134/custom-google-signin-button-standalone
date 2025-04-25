@@ -57,3 +57,11 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Check for the blog link (Korean blog) to learn how to implement to your project
+https://blog.naver.com/adfsfsf/223846254088
+If you want more information or have some question, feel free to ask with the email; adfsfsf@naver.com
+
+## Related Repository
+There is no-standalone version of this repository which was previously given by @chiragdp
+https://github.com/chiragdp/ng-google-custom-signin-button
