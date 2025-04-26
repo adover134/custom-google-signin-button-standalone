@@ -18,6 +18,7 @@ export const appConfig: ApplicationConfig = {
             id: GoogleLoginProvider.PROVIDER_ID,
             provider: new GoogleLoginProvider('Google_Client_ID', {
               scopes: 'openid',
+              oneTapEnabled: false
             }),
           },
         ],
